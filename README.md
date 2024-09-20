@@ -1,6 +1,7 @@
 # News-Assesment
 ## Demo
 
+
 ## installation
 1. get an apiKey from => https://newsapi.org/
 2. Create secrets.properties and local.defaults.properties files at the root of the reository
@@ -35,5 +36,4 @@ Improve offline functionality and network connectivity detection
 ## Screenshots
 |                                                                  #                                                                   |                                                                 #2                                                                   |
 |:------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Screenshot_20230411_040234](https://user-images.githubusercontent.com/28810111/231029021-0640d45e-e523-4f1d-8113-a35d5f749c1c.png) | ![Screenshot_20230411_040259](https://user-images.githubusercontent.com/28810111/231029027-9c7665fc-47a4-41d2-9465-e39e0aacc695.png) |
-
+| ![Screenshot_20240920_115446](https://github.com/user-attachments/assets/5c12a455-eceb-47a8-8bda-f25766c9fdea) | ![Screenshot_20240920_115507](https://github.com/user-attachments/assets/d74a2c84-bb03-4812-84c3-caf5116da1f1) |
