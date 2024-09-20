@@ -29,6 +29,7 @@ import com.fido.newappassesment.ui.viewmodel.ArticlesState
 import com.fido.newappassesment.ui.viewmodel.NewsViewModel
 import com.fido.newappassesment.ui.viewmodel.SourcesState
 
+// TODO: remove comments
 // ensure that the sources and articles are refreshed when the screen resumes (e.g., when coming
 // back from another screen or when the app returns to the foreground).
 @Composable
