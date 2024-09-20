@@ -14,18 +14,18 @@ https://youtube.com/shorts/Bz4xOAzhmgQ?feature=share
 
 ## Technologies Used
 
-Kotlin
-Jetpack Compose
-Gradle
-Retrofit
-Coroutines
-Dependency Injection Hilt
+- Kotlin
+- Jetpack Compose
+- Gradle
+- Retrofit
+- Coroutines
+- Dependency Injection Hilt
 
 
 ## Feature
-List of news sources
-List of news articles for each source
-Details page for the full news article
+- List of news sources
+- List of news articles for each source
+- Details page for the full news article
 
 ## TODO
 
