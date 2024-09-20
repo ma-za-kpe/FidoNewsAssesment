@@ -21,14 +21,11 @@ Retrofit
 Coroutines
 Dependency Injection Hilt
 
-## Feature
 
-Implement survey progress tracking
-Add survey metadata (e.g., survey name, description, due date)
-Improve error handling and user feedback
-Enhance the user interface and design
-Implement survey form validation
-Improve offline functionality and network connectivity detection
+## Feature
+List of news sources
+List of news articles for each source
+Details page for the full news article
 
 ## TODO
 
