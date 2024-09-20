@@ -1,5 +1,8 @@
 # News-Assesment
 ## Demo
+[![Watch the video]()
+
+https://youtube.com/shorts/Bz4xOAzhmgQ?feature=share
 
 
 ## installation
@@ -28,9 +31,6 @@ Implement survey form validation
 Improve offline functionality and network connectivity detection
 
 ## TODO
-- Write tests for most of the business logic
-- Work on all the TODO's in the app
-- clean up the ui to make it look nicer
 
 
 ## Screenshots
